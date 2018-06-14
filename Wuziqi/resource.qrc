@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/chess.jpg</file>
+        <file>resource/black.png</file>
+        <file>resource/white.png</file>
+        <file>resource/baiqi.png</file>
+        <file>resource/heiqi.png</file>
+        <file>resource/dicing1.gif</file>
+        <file>resource/dicing2.gif</file>
+        <file>resource/dicing3.gif</file>
+        <file>resource/dicing4.gif</file>
+        <file>resource/dicing5.gif</file>
+        <file>resource/dicing6.gif</file>
+        <file>resource/slider.png</file>
+        <file>resource/blackwin.png</file>
+        <file>resource/whitewin.png</file>
+        <file>resource/indx.jpg</file>
+        <file>resource/setting.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource/canon.mp3</file>
+        <file>resource/chess.mp3</file>
+        <file>resource/ohno.mp3</file>
+    </qresource>
+</RCC>
